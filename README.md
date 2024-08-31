@@ -21,7 +21,6 @@
 |  API 및 DB 설계<br>Photon Network 연결 및 동기화<br>아이템(스킬) 제작  |      API 및 DB 설계<br>아이템(스킬, 상자) 설계 및 구현<br>UCC 제작       |           UI/UX 기획 및 설계<br>몬스터(패턴) 설계 및 구현<br>아이템 제작           | UI/UX 기획 및 설계<br> 레벨 디자인 <br>맵 구조 설계 및 개발<br>몬스터(패턴) 제작<br>아이템 제작 | 플레이어 캐릭터 설계 및 구현<br>아이템(스킬) 설계 및 구현<br>Photon Network 연결 및 동기화<br>웹 페이지 제작<br>CI/CD 구축<br> |              UI/UX 기획 및 설계<br>인 게임 UI 설계 및 구현               |
 
 <br/>
-<br/>
 
 ## 🍴 서비스 소개
 
@@ -37,7 +36,6 @@
 
 ### 독특한 세계관과 창의적인 아이템 시스템
 마왕에 의해 저주받은 세계를 배경으로 하는 독특한 세계관 속에서, 여러분은 맛을 되찾기 위한 전설적인 용사가 됩니다. 게임을 진행하며 얻을 수 있는 **수많은 아이템**들은 각각 고유한 능력을 지니고 있어, 매 플레이마다 새로운 전략과 재미를 선사합니다.
-
 
 <br/>
 
@@ -83,13 +81,10 @@
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white"> <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
 <br/>
-<br/>
 
 ## 🧱 서비스 아키텍쳐
 
 ![배포아키텍쳐](./Docs/Architecture.png)
-<br/>
-
 
 <br/>
 
@@ -97,6 +92,7 @@
 
 [Notion 협업링크](https://round-tower-80e.notion.site/E107-439c9a3c4cde4e3dbc1bc20511f64965?pvs=4)
 
+<br/>
 
 ## 🎨 와이어 프레임
 
